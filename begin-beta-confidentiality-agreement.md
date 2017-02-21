@@ -1,4 +1,4 @@
-# CONFIDENTIALITY AGREEMENT
+# Begin Beta - Confidentiality Agreement
 
 ##### Last updated: February 21, 2017
 
