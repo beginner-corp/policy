@@ -70,7 +70,7 @@ In providing us with your email address, you authorize us to send you updates, n
 
 We may use customized links or similar technologies to determine whether our emails have been opened, and which links you click. This information is used solely to provide you more focused email communications and/or other information.
 
-If you do not wish to receive e-mail from us, you may opt-out at any time, or [notify us via email](unsubscribe@begin.com). (Please include sufficient information for us to identify you, including your name, email address and any other specifics of your request.)
+If you do not wish to receive e-mail from us, you may opt-out at any time, or [notify us via email](mailto:unsubscribe@begin.com). (Please include sufficient information for us to identify you, including your name, email address and any other specifics of your request.)
 
 Please note: after unsubscribing, it is possible (however unlikely) that we may still contact you via e-mail in certain administrative circumstances regarding Products or Services to which you have registered.
 
@@ -120,7 +120,7 @@ The Customer Data we collect is securely stored within our database, and we use 
 
 
 ## Questions or Comments Regarding this Privacy Policy
-We welcome any questions or comments you may have regarding this Privacy Policy, which should be [submitted via email](privacy@begin.com). We will make every effort to resolve or answer your concern in a timely manner.
+We welcome any questions or comments you may have regarding this Privacy Policy, which should be [submitted via email](mailto:privacy@begin.com). We will make every effort to resolve or answer your concern in a timely manner.
 
 
 ## Modifications to this Privacy Policy
