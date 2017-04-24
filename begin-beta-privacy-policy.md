@@ -1,7 +1,7 @@
 # Begin Beta - Privacy Policy
 
-Effective: January 1, 2017
-Last modified: April 11, 2017
+### Effective: January 1, 2017
+### Last modified: April 11, 2017
 
 
 # Introduction

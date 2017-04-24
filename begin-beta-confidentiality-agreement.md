@@ -1,6 +1,7 @@
 # Begin Beta - Confidentiality Agreement
 
-##### Last updated: February 21, 2017
+### Last updated: February 21, 2017
+
 
 By creating an account or using the software or services provided by Small Wins, Inc., doing business as Begin (the “Corporation”), you (the “Recipient”) expressly accept and agree to be bound by all of the terms and conditions below. If you do not accept these terms, you must not use our software or services. 
 
