@@ -1,11 +1,11 @@
 # Begin Community Code of Conduct
 
 #### Effective: January 1, 2017
-#### Last modified: April 24, 2017
+#### Last modified: April 25, 2017
 
 
 # Introduction
-By participating and contributing to the Small Wins (aka Begin) community -- including, but not limited to its open source projects, any related online venues such as Github, Slack, in-person events, etc. -- you agree to this Code of Conduct.
+By participating and contributing to the Small Wins (aka Begin) community -- including, but not limited to its open source projects, any related online venues such as Github, Slack, in-person events, etc. -- you agree to this Code of Conduct. Lack of familiarity with this Code of Conduct is not an excuse for not adhering to it.
 
 
 # The Code of Conduct & you
@@ -43,7 +43,7 @@ If you know a Begin team member, you may wish to contact them personally (and yo
 
 If possible, please attempt to collect any relevant information and evidence, including links, screenshots, or other recordings of any incident.
 
-Reports will be handled with the utmost care, confidence, and sensitivity towards the individuals reporting.
+Reports will be handled with the utmost care, confidence, and sensitivity towards the individual(s) reporting.
 
 
 # Enforcement
