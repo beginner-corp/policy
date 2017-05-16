@@ -8,6 +8,7 @@ We love, accept, and appreciate pull requests and issues from everyone. Many tha
 - Please resolve merge conflicts.
 - Thorough commit messages are appreciated.
 - Update any relevant docs, if applicable.
+- Open any issues (if appropriate).
 
 ### Issues
 Please follow the steps below when opening new issues:
@@ -18,5 +19,31 @@ Please follow the steps below when opening new issues:
   - Clear issue title
   - Expected behavior + actual behavior
   - Exact reproduction steps
-  - Versions of relevant components of the stack (library, OS / platform, device, etc.)
+  - Conditions and versions of relevant components of the stack (library, OS / platform, device, etc.)
   - If possible, supporting logs, screenshots, and animated gifs.
+
+### Example issue
+Here's an example of the kind of issue we'd like to see:
+```
+#### Title: Portal gun not opening interdimensional portals
+
+#### Expected behavior
+- The portal gun should power on
+- Additionally, the portal gun should be able to open portals to other dimensions
+
+#### Actual behavior
+- The crystal in the portal gun appears to be disabled and not powering on
+- Additionally, the portal gun is no longer able to open portals to other dimensions
+
+#### Repro steps
+- Ensure room is clear of any Beths or Jerrys
+- Ensure portal gun's power supply has energy
+- Activate portal gun by turning on power
+- Set a destination dimension (ideally not C-137)
+- Engage portal gun
+- Portal gun does not open an interdimensional portals
+
+#### Notes / conditions
+- Portal gun v6.1
+- Earth dimension C-137
+```

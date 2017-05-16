@@ -22,6 +22,13 @@ You agree to do your part in helping us ensure that the Begin community is a saf
 - Religion (or lack thereof)
 
 
+## What we actively work towards
+- Creating and maintaining a safe, positive, inclusive community
+- Cultivating a network of support & encouragement
+- Sharing varied and diverse perspectives
+- Being excellent to each other
+
+
 ## Prohibited behavior
 What that means in practice is zero tolerance for behavior and communication that includes, but is not limited to:
 - Harassment
@@ -30,7 +37,7 @@ What that means in practice is zero tolerance for behavior and communication tha
 - Threats or intimidation of any kind
 - Stalking and excessive attention (including photography or recording)
 - Doxing or disclosure of any private information
-- Off-color humor
+- Offensive or inappropriate humor
 - Intentionally disruptive behavior
 
 This may come in the form of language, imagery, or other forms of communication, and may be in person or online.
