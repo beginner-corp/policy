@@ -2,6 +2,7 @@
 
 #### Effective: January 1, 2017
 #### Last modified: February 21, 2018
+#### [Policy changelog available here](https://github.com/smallwins/policy/)
 
 
 # Introduction
