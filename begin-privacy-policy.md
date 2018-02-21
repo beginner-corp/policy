@@ -1,7 +1,7 @@
-# Begin Beta - Privacy Policy
+# Begin - Privacy Policy
 
 #### Effective: January 1, 2017
-#### Last modified: April 11, 2017
+#### Last modified: February 21, 2018
 
 
 # Introduction
@@ -11,7 +11,7 @@ When we refer to “Small Wins”, “Begin”, “our”, “us”, “we”, o
 
 Small Wins provides a variety of Products and Services to our customers, which refers to and includes our website and web applications, mobile applications, integrations for other Third Party Services (such as Slack, Facebook, etc.), and platform, as well as any future applications, products, and services. By visiting, using, or submitting information to any of our Products and Services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
-Terms not defined herein shall have the meaning as provided in our [Terms of Service](https://github.com/smallwins/policy/blob/master/begin-beta-terms-of-service.md) (the “Agreement”), and incorporated herein. 
+Terms not defined herein shall have the meaning as provided in our Terms of Service (the “Agreement”), and incorporated herein. 
 
 
 # Data Covered in this Policy
