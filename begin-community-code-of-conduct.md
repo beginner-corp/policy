@@ -1,7 +1,7 @@
 # Begin Community Code of Conduct
 
 #### Effective: January 1, 2017
-#### Last modified: April 25, 2017
+#### Last modified: [June 18, 2018](https://github.com/smallwins/policy/commits/master/begin-community-code-of-conduct.md)
 
 
 # Introduction
@@ -15,7 +15,7 @@ You agree to do your part in helping us ensure that the Begin community is a saf
 - Age
 - Sexual orientation
 - Disability
-- Personal apperance
+- Personal appearance
 - Body size and shape
 - Race
 - Socioeconomic class or background
