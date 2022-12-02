@@ -1,24 +1,24 @@
 # Begin - Privacy Policy
 
 #### Effective: January 1, 2017
-#### Last modified: February 21, 2018
-#### [Policy changelog available here](https://github.com/smallwins/policy/)
+#### Last modified: March 2021
+#### [Policy changelog available here](https://github.com/beginner-corp/policy/)
 
 
 # Introduction
 We are committed to protecting your privacy and we encourage you to read and learn more about the terms of our privacy policy (“Privacy Policy”). 
 
-When we refer to “Small Wins”, “Begin”, “our”, “us”, “we”, or similar self-referential language, we are referring to Small Wins, Inc. When we use the terms “you”, “your”, “yours”, “user”, “users”, “customer”, “customers”, etc., we are referring to any and all users of Small Wins current and future Products and Services.
+When we refer to “Beginner Corp.”, “Begin”, “our”, “us”, “we”, or similar self-referential language, we are referring to Beginner Corp., Inc. When we use the terms “you”, “your”, “yours”, “user”, “users”, “customer”, “customers”, etc., we are referring to any and all users of Beginner Corp. current and future Products and Services.
 
-Small Wins provides a variety of Products and Services to our customers, which refers to and includes our website and web applications, mobile applications, integrations for other Third Party Services (such as Slack, Facebook, etc.), and platform, as well as any future applications, products, and services. By visiting, using, or submitting information to any of our Products and Services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
+Beginner Corp. provides a variety of Products and Services to our customers, which refers to and includes our website and web applications, mobile applications, integrations for other Third Party Services (such as Slack, Facebook, etc.), and platform, as well as any future applications, products, and services. By visiting, using, or submitting information to any of our Products and Services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
 Terms not defined herein shall have the meaning as provided in our Terms of Service (the “Agreement”), and incorporated herein. 
 
 
 # Data Covered in this Policy
-This Privacy Policy covers our treatment of Customer Data (as defined herein) and General Data (defined herein) that we gather when you are accessing or using our Products and Services. This Privacy Policy also covers our treatment of any Customer Data that our business partners share with Small Wins (for example, via integration with Third Party Services).
+This Privacy Policy covers our treatment of Customer Data (as defined herein) and General Data (defined herein) that we gather when you are accessing or using our Products and Services. This Privacy Policy also covers our treatment of any Customer Data that our business partners share with Beginner Corp. (for example, via integration with Third Party Services).
 
-This Privacy Policy does not apply to the practices of companies that Small Wins does not own or control, or to individuals that we do not employ or manage. In addition, this Privacy Policy does not cover how other organizations, including Third Party Services, will treat your information. If integrating our Products and Services with any Third Party Services, please refer to such Third Party Services’ privacy policy. 
+This Privacy Policy does not apply to the practices of companies that Beginner Corp. does not own or control, or to individuals that we do not employ or manage. In addition, this Privacy Policy does not cover how other organizations, including Third Party Services, will treat your information. If integrating our Products and Services with any Third Party Services, please refer to such Third Party Services’ privacy policy. 
 
 
 ## Customer Data
@@ -41,7 +41,7 @@ your visit to the Site, such as pages viewed, links clicked and other similar na
 
 
 ## Data Collected Automatically
-We may also automatically collect, receive and store certain information from you whenever you interact with our Products and Services. As is standard practice, Small Wins may automatically receive and record information on our server logs from any devices you use to access our Products and services, including your IP address, cookie information, and data you requested.
+We may also automatically collect, receive and store certain information from you whenever you interact with our Products and Services. As is standard practice, Beginner Corp. may automatically receive and record information on our server logs from any devices you use to access our Products and services, including your IP address, cookie information, and data you requested.
 
 
 ## Cookies
@@ -82,6 +82,8 @@ In using and/or accessing the Services, you expressly authorize us to collect an
 
 We collect and use your Data to operate, improve, and better deliver our Products and Services. These uses may include performing analysis aimed at improving our Services, or making our Products more user friendly. We may also use your Data to communicate with you, such as providing you with mandatory or discretionary notices about our Products and Services.
 
+We retain information so long as it is necessary and relevant for our operations.
+
 We are headquartered in the United States of America. Data may be accessed by us or transferred to us in the United States or to our affiliates, business partners, or service providers elsewhere in the world. By providing us with your Data, you consent to this transfer. We will protect the privacy and security of your Data according to our Privacy Policy, regardless of where it is processed or stored.
 
 
@@ -103,7 +105,7 @@ If you integrate our Products and Services with a Third Party Service, we are no
 You understand and agree that we may access and/or disclose Data about you without your prior consent if we have a good faith belief that such action is necessary to:
 
 - comply with legal process or other legal requirements of any governmental authority;
-- protect and defend the rights or property of Small Wins (including the enforcement of our agreements);
+- protect and defend the rights or property of Beginner Corp. (including the enforcement of our agreements);
 - enforce the terms of the Agreement and Privacy Policy;
 - operate or conduct maintenance and repair of the Site, the App or equipment as authorized by law;
 - act in urgent circumstances to protect the personal safety of our users or members of the public; or
@@ -113,11 +115,29 @@ While we are not required to question or contest the validity of any search warr
 
 
 ## Disclosure of Data in Certain Transactions
-In some cases, we may choose to sell our assets. In these types of transactions, user information is typically one of the business assets that is transferred. You acknowledge that such transfers may occur, and that any acquirer of Small Wins may continue to use your Data as set forth in this Privacy Policy. 
+In some cases, we may choose to sell our assets. In these types of transactions, user information is typically one of the business assets that is transferred. You acknowledge that such transfers may occur, and that any acquirer of Beginner Corp. may continue to use your Data as set forth in this Privacy Policy. 
 
 
 # Security of Customer Data
-The Customer Data we collect is securely stored within our database, and we use standard, industry-wide practices such as firewalls, encryption, and end-to-end encryption for protecting your information. However, as effective as encryption technology is, no security system is impenetrable. For more information, please refer to our Security Policy.
+The Customer Data we collect is securely stored within our database, and we have implemented standard, industry-wide practices such as firewalls, encryption, and end-to-end encryption for protecting your information. However, as effective as encryption technology is, no security system is impenetrable. For more information, please refer to our Security Policy.
+
+It is your responsibility to make sure that your personal information is accurate and that your password(s) and account registration information are secure and not shared with third parties. 
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Website.
+
+Accessing and Correcting Your Information
+
+You may send us an email at [INSERT EMAIL ADDRESS OR LINK] to request access to, correct, or delete any Customer Data that you have provided to us.  We may not accommodate a request to change information if we believe the change would violate any law or legal requirements or cause the information to be incorrect.  
+
+Notice to California Residents
+
+	Your California Privacy Rights
+
+California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to [EMAIL ADDRESS].  For all requests, you must put the statement “Your California Privacy Rights” in the body of your request, as well as your name, street address, city, state, and zip code.  In the body of your request, please provide enough information for us to determine if this applies to you.  You need to attest to the fact that you are a California resident and provide a current California address for our response.  Please note that we will not accept requests via the telephone, mail, or by facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
+
+How We Respond to Do Not Track Signals for California Residents
+
+California Business & Professions Code Section 22575(b) (as amended effective January 1, 2014) provides that California residents are entitled to know how we respond to “Do Not Track” browser settings.  We do not currently take actions to respond to Do Not Track signals because a uniform technological standard has not yet been developed.  We continue to review new technologies and may adopt a standard once one is created.
 
 
 ## Questions or Comments Regarding this Privacy Policy
